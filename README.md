@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nudara2000&label=Profile%20views&color=0e75b6&style=flat" alt="nudara2000" /> </p>
 
-- 🔭 I’m currently work **Mobile Application development**
+- 🔭 I’m currently work **Web Development**
 
 - 🌱 I’m currently learning **React Native**
 
